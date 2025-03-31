@@ -10,10 +10,7 @@
   [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaylaelike&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=00000000&hide=PHP)](https://github.com/jaylaelike)
 
   
-  <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaylaelike&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-⭐️ From jaylaelike
-</div>
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
   
 
